@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422962478802",
+    "project_id": "share-market-ef666",
+    "storage_bucket": "share-market-ef666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422962478802:android:f0080002bd231c13d9f70b",
+        "android_client_info": {
+          "package_name": "com.example.share_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422962478802-cplsf26hqmp4dj37er63fb0oe5l4visi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO8ydBmtSa1pf9imkqlMXpIqSntz1kWRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422962478802-cplsf26hqmp4dj37er63fb0oe5l4visi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
